@@ -1,28 +1,28 @@
 # Tubes_TBA_Kelompok-9
 
 ## 1. Rancangan CFG
-![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/d5eb8013-6b00-408e-8145-d29b572b0b63)
+* ![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/d5eb8013-6b00-408e-8145-d29b572b0b63)
 
 ## 2. Rancangan Finite Auotama
 * FA untuk for
-![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/2cafef72-e961-4dee-9487-64066ab0d571)
+* ![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/2cafef72-e961-4dee-9487-64066ab0d571)
 
 * FA untuk aksi (berupa increment dan assignment
-![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/20c2c9cc-63de-48f1-87c9-0672e08a4621)
+* ![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/20c2c9cc-63de-48f1-87c9-0672e08a4621)
 
 * FA untuk comparison (>,>=, <,<=
-![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/c45f958b-a4b2-4d93-8261-fcb82f49dcaa)
+* ![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/c45f958b-a4b2-4d93-8261-fcb82f49dcaa)
 
 * FA untuk kurung kurawal awal
-![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/9a311f18-fef7-4ec7-95e0-546212d1db8e)
+* ![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/9a311f18-fef7-4ec7-95e0-546212d1db8e)
 
 * FA untuk kurung kurawal akhir
-![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/b7b784da-bff0-45bb-9c4d-d81173a3f155)
+* ![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/b7b784da-bff0-45bb-9c4d-d81173a3f155)
 
 ## 3. Parse Table dan LEXICAL ANALYZER
-![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/82e46b44-46dc-42b7-ab21-cd3f7499db6f)
-![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/58ec6bac-02f8-42bd-a6e6-dd1ecc0a486f)
-![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/3be1e0a7-72cb-4bda-a814-dd3c07e840bb)
+* ![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/82e46b44-46dc-42b7-ab21-cd3f7499db6f)
+* ![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/58ec6bac-02f8-42bd-a6e6-dd1ecc0a486f)
+* ![image](https://github.com/Oktovivian/Tubes_TBA_Kelompok-9/assets/68942070/3be1e0a7-72cb-4bda-a814-dd3c07e840bb)
 
 
 ## 4. Panduan Penggunaan Program
